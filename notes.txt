@@ -1,0 +1,1 @@
+Git staging area is usefull to see the file before saving it locally..Git staging area is usefull for checking the files before saving it locally.
